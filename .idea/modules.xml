@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/addressbook.iml" filepath="$PROJECT_DIR$/addressbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_main.iml" group="addressbook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_test.iml" group="addressbook" />
     </modules>
   </component>
 </project>
